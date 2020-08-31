@@ -2,7 +2,7 @@
   "pokemon": [
     "pikachu": {
       "name": "Pikachu"
-      "eintraege" : [
+      "eintraege": [
         "Wenn sich mehrere dieser POKéMON versammeln, kann ihre Energie Blitzgewitter erzeugen.",
         "Der Schweif dieses POKéMON dient als Frühwarnsystem. Zieht man PIKACHU am Schweif, so beißt es um sich.",
         "Dieses sehr scheue Pokémon lebt tief im Wald. Es speichert in seinen Backen Elektrizität und greift Gegner mit Elektro-Attacken an."
@@ -10,10 +10,10 @@
     },
     "alola-digda": {
       "name": "Alola-Digda"
-      "eintraege" : [
+      "eintraege": [
         "Die metallischen Fortsätze auf seinem Kopf waren ursprünglich Haare. Es kommuniziert durch Schwanken mit anderen Digda.",
         "Seine goldenen Haare verfügen über sensorische Funktionen. Es streckt sie aus Löchern heraus, um die Umgebung zu erkunden.",
-        Es ist so kräftig, dass es sich mühelos durch Schichten von Lavagestein graben kann. An der Oberfläche zeigt es sich nur selten.
+        "Es ist so kräftig, dass es sich mühelos durch Schichten von Lavagestein graben kann. An der Oberfläche zeigt es sich nur selten."
       ]
     }
   ]
