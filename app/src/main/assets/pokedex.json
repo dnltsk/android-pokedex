@@ -71,7 +71,9 @@
    "Ein hochintelligentes Pokémon. Wenn es im Flug seine Flügel nach hinten legt, ist es schneller als ein Jet. "
    " 	Latios kann seinem Gegenüber ein Bild von etwas, das es einmal gesehen hat, in den Kopf projizieren. Dieses Pokémon ist intelligent und es versteht die menschliche Sprache."   ,
    "Latios schüttet nur seinem Trainer gegenüber sein Herz aus. Dieses Pokémon fliegt schneller als ein Flugzeug, indem es seine Vorderbeine einklappt, um den Luftwiderstand zu verringern. "   
-      
+    ]
+  },
+    {      
    "name" "Latias",
     "eintraege": [
      "LATIAS kann seinem Feind ein Bild von etwas, das dieser einmal gesehen hat, in den Kopf projizieren. Dieses POKéMON ist intelligent und es versteht die menschliche Sprache. ",
