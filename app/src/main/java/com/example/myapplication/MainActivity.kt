@@ -49,11 +49,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         listView.onItemClickListener = object : AdapterView.OnItemClickListener {
             override fun onItemClick(parent: AdapterView<*>, view: View, position: Int, id: Long) {
                 val name = names[position]
-                Toast.makeText(this@MainActivity, name, Toast.LENGTH_SHORT).show()
-                val text = this@MainActivity.pokedex[position].eintraege.random()
+                val eintrag = this@MainActivity.pokedex[position].eintraege.random()
+                Toast.makeText(this@MainActivity, eintrag, Toast.LENGTH_LONG).show()
                 Log.d(TAG, "onItemClick $name")
-                Log.d(TAG, text)
-                tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, null)
+                Log.d(TAG, eintrag)
+                tts.speak(eintrag, TextToSpeech.QUEUE_FLUSH, null, null)
             }
         }
 
