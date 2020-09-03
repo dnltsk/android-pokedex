@@ -1,6 +1,6 @@
 # Android Pokedex
 
-Hilf mir und befülle den [Pokedex](/app/src/main/assets/pokedex.json)
+Hilf mit und befülle den [Pokedex](/app/src/main/assets/pokedex.json)
 
 ## Funktionen
 
