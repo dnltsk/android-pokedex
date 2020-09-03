@@ -7,7 +7,7 @@
       "Dieses sehr scheue Pokémon lebt tief im Wald. Es speichert in seinen Backen Elektrizität und greift Gegner mit Elektro-Attacken an."
     ]
   },
-  { 
+  {
     "name": "Alola-Digda",
     "eintraege": [
       "Die metallischen Fortsätze auf seinem Kopf waren ursprünglich Haare. Es kommuniziert durch Schwanken mit anderen Digda.",
@@ -15,7 +15,7 @@
       "Es ist so kräftig, dass es sich mühelos durch Schichten von Lavagestein graben kann. An der Oberfläche zeigt es sich nur selten."
     ]
   },
-  { 
+  {
     "name": "Rayquaza",
     "eintraege": [
       "RAYQUAZA lebte für hunderte Millionen Jahre in der Ozonschicht und stieg nie zur Erde hinab. Dieses POKéMON lebt von Wasser und Partikeln aus der Atmosphäre.",
@@ -28,10 +28,10 @@
       "Da es in der Ozonschicht hoch über den Wolken lebt, bekam es bis vor Kurzem noch niemand zu Gesicht. ",
       "Es heißt, Rayquaza lebe bereits seit mehreren hundert Millionen Jahren. Legenden zufolge hat es den einstigen Konflikt zwischen Groudon und Kyogre beendet.",
       "Es fliegt durch die Ozonschicht und ernährt sich von Meteoren. Mithilfe der Energie, die durch diese Meteore in seinen Körper gelangt, kann es eine Mega-Entwicklung durchführen. ",
-      "Es heißt, Rayquaza lebe bereits seit mehreren hundert Millionen Jahren. Legenden zufolge hat es den einstigen Konflikt zwischen Groudon und Kyogre beendet. ",
-      ]
+      "Es heißt, Rayquaza lebe bereits seit mehreren hundert Millionen Jahren. Legenden zufolge hat es den einstigen Konflikt zwischen Groudon und Kyogre beendet. "
+    ]
   },
-  { 
+  {
     "name": "Groudon",
     "eintraege": [
       "GROUDON wurde lange Zeit in der Mythologie als ein POKéMON beschrieben, das Land erschaffen und Kontinente vergrößern kann. Dieses POKéMON fiel nach einem erbitterten Kampf mit KYOGRE in den Schlaf. ",
@@ -44,10 +44,10 @@
       "Sein Feuer erschuf einst das Land. Es und Kyogre lieferten sich einen langen Kampf. ",
       "Dieses Legendäre Pokémon soll das Land verkörpern. Es ist in einen Schlaf gefallen, nachdem es mit Kyogre gekämpft hat. ",
       "Es heißt, Groudon sei die Personifizierung des Landes. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Kyogre gekämpft.",
-      "Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Magma hervorbringen und die Landmasse vergrößern. ",
-       ]
+      "Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Magma hervorbringen und die Landmasse vergrößern. "
+    ]
   },
-  { 
+  {
     "name": "Kyogre",
     "eintraege": [
       "KYOGRE kann riesige Regenwolken erzeugen, die den gesamten Himmel bedecken, und wolkenbruchartige Niederschläge hervorrufen. Dieses POKéMON hat vielen Menschen das Leben gerettet, die unter einer Dürre litten. ",
@@ -59,5 +59,8 @@
       "Man sagt, es habe die Meere vergrößert, indem es es regnen ließ. Es schlief in einem Meeresgraben. ",
       "Der Legende nach erschuf sein Regen das Meer. Es und Groudon lieferten sich einen langen Kampf. ",
       "Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Stürme erzeugen und das Meer vergrößern.",
-      "Es heißt, Kyogre sei die Personifizierung des Meeres. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Groudon gekämpft. ",
+      "Es heißt, Kyogre sei die Personifizierung des Meeres. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Groudon gekämpft. "
+    ]
+  }
+]
       
