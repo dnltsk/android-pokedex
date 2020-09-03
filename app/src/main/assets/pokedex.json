@@ -16,7 +16,7 @@
     ]
   },
   { 
-    "name": "Rayquaza"
+    "name": "Rayquaza",
     "eintraege": [
       "RAYQUAZA lebte für hunderte Millionen Jahre in der Ozonschicht und stieg nie zur Erde hinab. Dieses POKéMON lebt von Wasser und Partikeln aus der Atmosphäre.",
       "RAYQUAZA soll für hunderte Millionen Jahre in der Ozonschicht der Erde über den Wolken gelebt haben. Daher wusste man so lange nicht von seiner Existenz. ",
@@ -32,7 +32,7 @@
       ]
   },
   { 
-    "name": "Groudon"
+    "name": "Groudon",
     "eintraege": [
       "GROUDON wurde lange Zeit in der Mythologie als ein POKéMON beschrieben, das Land erschaffen und Kontinente vergrößern kann. Dieses POKéMON fiel nach einem erbitterten Kampf mit KYOGRE in den Schlaf. ",
       "GROUDON hat die Macht, mit Licht und Hitze Regenwolken zu vertreiben und Wasser verdunsten zu lassen. Es brachte den Menschen Erlösung, die unter schrecklichen Überschwemmungen gelitten hatten. ",
@@ -45,5 +45,19 @@
       "Dieses Legendäre Pokémon soll das Land verkörpern. Es ist in einen Schlaf gefallen, nachdem es mit Kyogre gekämpft hat. ",
       "Es heißt, Groudon sei die Personifizierung des Landes. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Kyogre gekämpft.",
       "Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Magma hervorbringen und die Landmasse vergrößern. ",
+       ]
+  },
+  { 
+    "name": "Kyogre",
+    "eintraege": [
+      "KYOGRE kann riesige Regenwolken erzeugen, die den gesamten Himmel bedecken, und wolkenbruchartige Niederschläge hervorrufen. Dieses POKéMON hat vielen Menschen das Leben gerettet, die unter einer Dürre litten. ",
+      "In der Mythologie taucht KYOGRE als dasjenige POKéMON auf, das das Meer vergrößert hat, indem es sintflutartige Regenfälle und Sturmfluten erzeugt hat. Nach einem katastrophalen Kampf mit GROUDON legte es sich schlafen. ",
+      "Man sagt, dass dieses POKéMON das Meer vergrößert hat, indem es starke Regenfälle verursachte. Es kann Wasser kontrollieren. ",
+      "Laut Mythologie soll KYOGRE die See erschaffen haben. Nach jahrelanger Fehde mit GROUDON schläft es am Grund der See. ",
+      "Man sagt, es habe die Meere vergrößert, indem es es regnen ließ. Es schlief in einem Meeresgraben. ",
+      "Der Legende nach erschuf sein Regen das Meer. Es und GROUDON lieferten sich einen langen Kampf. ",
+      "Man sagt, es habe die Meere vergrößert, indem es es regnen ließ. Es schlief in einem Meeresgraben. ",
+      "Der Legende nach erschuf sein Regen das Meer. Es und Groudon lieferten sich einen langen Kampf. ",
+      "Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Stürme erzeugen und das Meer vergrößern.",
+      "Es heißt, Kyogre sei die Personifizierung des Meeres. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Groudon gekämpft. ",
       
-   
