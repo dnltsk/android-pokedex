@@ -69,16 +69,16 @@
       " 	LATIOS schüttet nur seinem TRAINER gegenüber sein Herz aus. Dieses POKéMON fliegt schneller als ein Flugzeug, indem es seine Vorderbeine einklappt, um den Luftwiderstand zu verringern. ",
       "Es hat ein ruhiges Wesen und verabscheut Kämpfe. Wenn es seine Vorderbeine einzieht, kann es schneller als ein Flugzeug fliegen.. "
    "Ein hochintelligentes Pokémon. Wenn es im Flug seine Flügel nach hinten legt, ist es schneller als ein Jet. "
-   " 	Latios kann seinem Gegenüber ein Bild von etwas, das es einmal gesehen hat, in den Kopf projizieren. Dieses Pokémon ist intelligent und es versteht die menschliche Sprache."   
+   " 	Latios kann seinem Gegenüber ein Bild von etwas, das es einmal gesehen hat, in den Kopf projizieren. Dieses Pokémon ist intelligent und es versteht die menschliche Sprache."   ,
    "Latios schüttet nur seinem Trainer gegenüber sein Herz aus. Dieses Pokémon fliegt schneller als ein Flugzeug, indem es seine Vorderbeine einklappt, um den Luftwiderstand zu verringern. "   
       
-   "name" "Latias"  
+   "name" "Latias",
     "eintraege": [
      "LATIAS kann seinem Feind ein Bild von etwas, das dieser einmal gesehen hat, in den Kopf projizieren. Dieses POKéMON ist intelligent und es versteht die menschliche Sprache. ",
       " 	LATIAS schüttet nur seinem TRAINER gegenüber sein Herz aus. Dieses POKéMON fliegt schneller als ein Flugzeug, indem es seine Vorderbeine einklappt, um den Luftwiderstand zu verringern. ",
-      "Es hat ein ruhiges Wesen und verabscheut Kämpfe. Wenn es seine Vorderbeine einzieht, kann es schneller als ein Flugzeug fliegen.. "
-   "Ein hochintelligentes Pokémon. Wenn es im Flug seine Flügel nach hinten legt, ist es schneller als ein Jet. "
-   " 	Latias kann seinem Gegenüber ein Bild von etwas, das es einmal gesehen hat, in den Kopf projizieren. Dieses Pokémon ist intelligent und es versteht die menschliche Sprache."   
+      "Es hat ein ruhiges Wesen und verabscheut Kämpfe. Wenn es seine Vorderbeine einzieht, kann es schneller als ein Flugzeug fliegen.. ",
+   "Ein hochintelligentes Pokémon. Wenn es im Flug seine Flügel nach hinten legt, ist es schneller als ein Jet. ",
+   " 	Latias kann seinem Gegenüber ein Bild von etwas, das es einmal gesehen hat, in den Kopf projizieren. Dieses Pokémon ist intelligent und es versteht die menschliche Sprache."   ,
    "Latias schüttet nur seinem Trainer gegenüber sein Herz aus. Dieses Pokémon fliegt schneller als ein Flugzeug, indem es seine Vorderbeine einklappt, um den Luftwiderstand zu verringern. "   
      ]
   },
@@ -91,10 +91,10 @@
     "Sein Körper ist härter als jede andere Art Metall, da das Metall aus geheimnisvollen Substanzen besteht. Es ist nicht nur fest, sondern schrumpft und dehnt sich auch. ",
     "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck u. Wärme hart. ",  
     "Sein Körper ist härter als jedes andere Metall. Untersuchungen zufolge ist es innen hohl. ",   
-    "Registeel wurde vor langer Zeit von den Menschen eingesperrt. Das Metall, aus dem sein Körper besteht, ist eine seltsame Substanz, die nicht von dieser Welt sein soll. ",
+    "Registeel wurde vor langer Zeit von den Menschen eingesperrt. Das Metall, aus dem sein Körper besteht, ist eine seltsame Substanz, die nicht von dieser Welt sein soll. "
     ]
   },
-    {
+  {
     "name": "Regice",
     "eintraege": [
     "REGICEs tiefgefrorener Körper entstand während der Eiszeit. Es kann nicht einmal durch Feuer geschmolzen werden. Dieses POKéMON kontrolliert eisige Luft von minus 200 Grad. ",
@@ -102,43 +102,7 @@
     "Forscher haben herausgefunden, dass sein Körper aus der gleichen Art Eis besteht, das man am Südpol finden kann. ",
     "Sein Körper besteht aus Eis der Antarktis. Ausgiebige Forschungen haben ergeben, dass dieses Eis aus einer Eiszeit stammt. ",
     "Sein Körper besteht aus Eis aus der Eiszeit. Es kontrolliert gefrorene Luft, die minus 200 Grad kalt ist. ",
-    "Es heißt, es habe Jahrtausende lang im Ewigen Eis geschlummert. Selbst Magma schmilzt es nicht. ",
-    
-      
-      
-      
- 
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      "
+    "Es heißt, es habe Jahrtausende lang im Ewigen Eis geschlummert. Selbst Magma schmilzt es nicht. "
     ]
   }
 ]
